@@ -1,0 +1,6 @@
+{
+  "name": "arcisai-proxy",
+  "version": "1.0.0",
+  "description": "HTTPS proxy for ArcisAI Sales Agent webhook",
+  "private": true
+}
